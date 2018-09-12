@@ -12,7 +12,7 @@ package aaron.arthurHelloWorld;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World UPDATED Remote2");
+		System.out.println("Hello World");
 		
 	}
 
